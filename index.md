@@ -1,8 +1,8 @@
 # Open Source Software - Summer 2019
-## (( Your Name Here ))
+## (( Dani Reil ))
 
 ## Bio
-(( Put a little bit about yourself here! Also include a photo. ))
+(( I have been interested in open source software for a while now, but did not know where to start. I am excited to learn a lot from this class. I play boardgames and have two cats. ))
 
 ## Lab Reports
 [Lab 1](labs/lab-01/report.md)
