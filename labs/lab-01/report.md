@@ -9,4 +9,4 @@
 To be honest I am not sure what I was supposed to get out of reading the chapter, but what I did get was angry. Jesse appears to have done nothing wrong. He was using technology in the manner I think it is supposed to be used in, which is to make lives easier and solve problems. His actions seem to embody the very idea behind open source and it is astonishing that he was punished for it. 
 
 ## Linux
-
+![Screenshot (86)](https://user-images.githubusercontent.com/63828111/106548786-a2fd6e80-64dd-11eb-9650-302c70ce9cdf.png)
