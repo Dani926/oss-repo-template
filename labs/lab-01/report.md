@@ -17,6 +17,10 @@ To be honest, what I got most from reading this chapter was angry. Jesse appears
 upsetting
 
 ## Regex
+### Regular Expressions
+![Screenshot (16)](https://user-images.githubusercontent.com/63828111/106550623-79dedd00-64e1-11eb-9ce6-3ed375e0a738.png)
+
+### Crosswords
 
 ## Play with Snap or Blockly
 
