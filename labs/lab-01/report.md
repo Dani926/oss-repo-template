@@ -22,6 +22,10 @@ upsetting
 
 ### Crosswords
 ![Screenshot (17)](https://user-images.githubusercontent.com/63828111/106552359-31292300-64e5-11eb-9fb7-2c8110c97e4f.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/63828111/106552404-4bfb9780-64e5-11eb-9055-252703e49bbe.png)
+![Screenshot (19)](https://user-images.githubusercontent.com/63828111/106552438-5a49b380-64e5-11eb-90b3-264a9cb26651.png)
+![Screenshot (20)](https://user-images.githubusercontent.com/63828111/106552460-66ce0c00-64e5-11eb-9840-77e360de30aa.png)
+
 
 
 ## Play with Snap or Blockly
