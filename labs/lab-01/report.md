@@ -1,5 +1,8 @@
 # Lab 01 Report - Introduction to Open Source Software
 
+## Discord
+![Screenshot (87)](https://user-images.githubusercontent.com/63828111/106549124-50708200-64de-11eb-9c83-73a8c84af132.png)
+
 ## Reading Assignments
 ### How To Answer Questions in a Helpful way
 1. Give insight into your thought process. The answers I learn from the most usually involve an explanation of the thought process behind the answer. If I did not come up with the answer myself its often because I am not used to thinking about a problem in a certain way. It is very helpful when an instructor or TA explains how they approached the problem.
