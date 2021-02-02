@@ -6,3 +6,4 @@
 2. Suggest alternative resources. I try to make a habit of always doing research before I ask a question, but sometimes I do not know where to look for answers or how to differentiate good resources from bad ones. It also happens that sometimes the way one resource explains something makes a lot more sense to me than the way another resource explained it, so if an instructor or TA can point me to resources that are trusted and/or have a different approach to explaining it can be very helpful.
 
 ## Free Culture - Chapter 3
+To be honest I am not sure what I was supposed to get out of reading the chapter, but what I did get was angry. Jesse appears to have done nothing wrong. He was using technology in the manner I think it is supposed to be used in, which is to make lives easier and solve problems. His actions seem to embody the very idea behind open source and it is astonishing that he was punished for it. 
