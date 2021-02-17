@@ -1,4 +1,9 @@
 # Lab3 - Documentation and Community
 ## Documentation
+### Wiki
+https://github.com/Dani926/oss-repo/wiki
+### LaTex Formulae
+![Screenshot (37)](https://user-images.githubusercontent.com/63828111/108155856-99fbc800-70ad-11eb-806b-3f58c1af5fdb.png)
+### Hadamard Matrix
 
 ## Community
