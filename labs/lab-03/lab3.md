@@ -7,3 +7,11 @@ https://github.com/Dani926/oss-repo/wiki
 ### Hadamard Matrix
 ![Screenshot (38)](https://user-images.githubusercontent.com/63828111/108156683-1b078f00-70af-11eb-9a57-8eeb5697ec1c.png)
 ## Community
+### Projects
+#### Project 1 - Open Circuits
+#### Project 2 -
+#### Project 3 - 
+#### Project 4 -
+### Gitstats
+
+### Contribution Visualizations
