@@ -42,3 +42,11 @@ Again the difference between github and gitstats is the difference in lines of c
 #### Dorm Design
 And again the difference between github and gitstats is the number of lines of code given (22328 instead of 22680) and the number of authors listed (4 instead of 2, though it should be noted that 3 of the authors listed via gitstats looks to be the same person)
 ### Contribution Visualizations
+#### Open Circuits
+![Screenshot (43)](https://user-images.githubusercontent.com/63828111/108305814-d8aa8480-7178-11eb-942c-232a9ff591c9.png)
+#### 990
+![Screenshot (40)](https://user-images.githubusercontent.com/63828111/108305767-b9abf280-7178-11eb-8318-1dda512fb58d.png)
+#### AIPS
+![Screenshot (42)](https://user-images.githubusercontent.com/63828111/108305793-ca5c6880-7178-11eb-86a8-c1a6eee2140a.png)
+#### Dorm Design
+![Screenshot (39)](https://user-images.githubusercontent.com/63828111/108305695-93865280-7178-11eb-965c-ec0eb4780462.png)
