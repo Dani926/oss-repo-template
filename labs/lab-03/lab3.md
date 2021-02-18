@@ -27,11 +27,11 @@ https://github.com/Dani926/oss-repo/wiki
 - Latest Commit: August 11 2020
 - Current Branches: 10
 #### Project 4 - Dorm Design
-- Number of Contributors: 
+- Number of Contributors: 2
 - Lines of Code:
-- First Commit:
-- Latest Commit:
-- Current Branches:
+- First Commit: September 8 2020
+- Latest Commit: January 29 2021
+- Current Branches: 10
 ### Gitstats
 
 ### Contribution Visualizations
