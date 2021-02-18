@@ -21,11 +21,11 @@ https://github.com/Dani926/oss-repo/wiki
 - Latest Commit: November 15 2020
 - Current Branches: 1
 #### Project 3 - AIPS
-- Number of Contributors: 
+- Number of Contributors: 5
 - Lines of Code:
-- First Commit:
-- Latest Commit:
-- Current Branches:
+- First Commit: October 4 2019
+- Latest Commit: August 11 2020
+- Current Branches: 10
 #### Project 4 - Dorm Design
 - Number of Contributors: 
 - Lines of Code:
