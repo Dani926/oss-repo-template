@@ -33,5 +33,12 @@ https://github.com/Dani926/oss-repo/wiki
 - Latest Commit: January 29 2021
 - Current Branches: 10
 ### Gitstats
+#### Open Circuits
+
+#### 990
+The main difference I see is that using the git command to get the lines of code give me a different number than what gitstats gives (52391 instead of 52372).
+#### AIPS
+
+#### Dorm Design
 
 ### Contribution Visualizations
