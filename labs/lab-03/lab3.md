@@ -9,17 +9,17 @@ https://github.com/Dani926/oss-repo/wiki
 ## Community
 ### Projects
 #### Project 1 - Open Circuits
-- Number of Contributors: 
+- Number of Contributors: 33
 - Lines of Code:
 - First Commit: March 22 2017
-- Latest Commit:
-- Current Branches:
+- Latest Commit: January 23 2021
+- Current Branches: 20
 #### Project 2 - 990
 - Number of Contributors: 1
 - Lines of Code:
-- First Commit:
-- Latest Commit:
-- Current Branches:
+- First Commit: September 22 2020
+- Latest Commit: November 15 2020
+- Current Branches: 1
 #### Project 3 - AIPS
 - Number of Contributors: 
 - Lines of Code:
