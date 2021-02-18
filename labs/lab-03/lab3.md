@@ -40,5 +40,5 @@ The main difference I see is that using the git command to get the lines of code
 #### AIPS
 Again the difference between github and gitstats is the difference in lines of code (18623 insread of 343217) and contributors (7 instead of 5, though it should be noted one author is listed as "unknown" and the other is a bot).
 #### Dorm Design
-
+And again the difference between github and gitstats is the number of lines of code given (22328 instead of 22680) and the number of authors listed (4 instead of 2, though it should be noted that 3 of the authors listed via gitstats looks to be the same person)
 ### Contribution Visualizations
