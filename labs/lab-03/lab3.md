@@ -10,25 +10,25 @@ https://github.com/Dani926/oss-repo/wiki
 ### Projects
 #### Project 1 - Open Circuits
 - Number of Contributors: 33
-- Lines of Code:
+- Lines of Code: 26796 total
 - First Commit: March 22 2017
 - Latest Commit: January 23 2021
 - Current Branches: 20
 #### Project 2 - 990
 - Number of Contributors: 1
-- Lines of Code:
+- Lines of Code: 52372 total
 - First Commit: September 22 2020
 - Latest Commit: November 15 2020
 - Current Branches: 1
 #### Project 3 - AIPS
 - Number of Contributors: 5
-- Lines of Code:
+- Lines of Code: 343217 total
 - First Commit: October 4 2019
 - Latest Commit: August 11 2020
 - Current Branches: 10
 #### Project 4 - Dorm Design
 - Number of Contributors: 2
-- Lines of Code:
+- Lines of Code: 22680 total
 - First Commit: September 8 2020
 - Latest Commit: January 29 2021
 - Current Branches: 10
