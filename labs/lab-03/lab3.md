@@ -9,9 +9,29 @@ https://github.com/Dani926/oss-repo/wiki
 ## Community
 ### Projects
 #### Project 1 - Open Circuits
-#### Project 2 -
-#### Project 3 - 
-#### Project 4 -
+- Number of Contributors: 
+- Lines of Code:
+- First Commit: March 22 2017
+- Latest Commit:
+- Current Branches:
+#### Project 2 - 990
+- Number of Contributors: 1
+- Lines of Code:
+- First Commit:
+- Latest Commit:
+- Current Branches:
+#### Project 3 - AIPS
+- Number of Contributors: 
+- Lines of Code:
+- First Commit:
+- Latest Commit:
+- Current Branches:
+#### Project 4 - Dorm Design
+- Number of Contributors: 
+- Lines of Code:
+- First Commit:
+- Latest Commit:
+- Current Branches:
 ### Gitstats
 
 ### Contribution Visualizations
