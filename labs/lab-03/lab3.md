@@ -34,11 +34,11 @@ https://github.com/Dani926/oss-repo/wiki
 - Current Branches: 10
 ### Gitstats
 #### Open Circuits
-
+The differences I see between github and gitstats for Open Circuits is the lines of code given by gitstats are different (26335 instead of 26796) and the number of contributors (aka Authors) given by gitstats also differs (20 instead of 33).
 #### 990
 The main difference I see is that using the git command to get the lines of code give me a different number than what gitstats gives (52391 instead of 52372).
 #### AIPS
-
+Again the difference between github and gitstats is the difference in lines of code (18623 insread of 343217) and contributors (7 instead of 5, though it should be noted one author is listed as "unknown" and the other is a bot).
 #### Dorm Design
 
 ### Contribution Visualizations
