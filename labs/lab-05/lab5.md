@@ -37,7 +37,7 @@
 
 ## BuildSystemsExample
 ### Makefile
-'''c++
+```
 static_block: program.c libblock.a
 	gcc program.c -L. -lblock -o static_block
 
@@ -58,7 +58,7 @@ d_block.o: source/block.c
 
 clean:
 	$(RM) static_block dynamic_block libblock.a libblock.so *.o
-'''
+```
   
 ## Makefile Static Block Output
 ![StMakeStatic](https://user-images.githubusercontent.com/63828111/109912243-a705e300-7c79-11eb-9fbc-733cf83e0eb9.png)
