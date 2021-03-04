@@ -37,7 +37,7 @@
 
 ## BuildSystemsExample
 ### Makefile
-'''
+'''c++
 static_block: program.c libblock.a
 	gcc program.c -L. -lblock -o static_block
 
