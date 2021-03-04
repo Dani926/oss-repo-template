@@ -1,34 +1,35 @@
 # Lab5 - Build Systems
 ## Step 1
 ### tutorial.cxx
-[tutorial.cxx](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step1/tutorial.cxx)
+[Step1: tutorial.cxx](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step1/tutorial.cxx)
 ### CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073330/CMakeLists.txt)
+[Step1: CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step1/CMakeLists.txt)
 ### Tutorial Output
 
 ## Step 2
 ### tutorial.cxx
+[Step2: tutorial.cxx](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step2/tutorial.cxx)
 ### CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073328/CMakeLists.txt)
+[Step2: CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step2/CMakeLists.txt)
 ### Tutorial Output
 
 ## Step 3
 ### CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073323/CMakeLists.txt)
+[Step3: CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step3/CMakeLists.txt)
 ### MathFunctions/CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073323/CMakeLists.txt)
+[Step3: MathFunctions/CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step3/CMakeLists%20-%20MathFunctions.txt)
 ### Tutorial Output
 
 ## Step 4
 ### CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073332/CMakeLists.txt)
+[Step4: CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step4/CMakeLists.txt)
 ### MathFunctions/CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073333/CMakeLists.txt)
+[Step4: MathFunctions/CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step4/CMakeLists%20-%20MathFunctions.txt)
 ### ctest -VV Output
 
 ## Step 5
 ### CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073335/CMakeLists.txt)
+[Step5: CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step5/CMakeLists.txt)
 ### MathFunctions/CMakeLists
-[CMakeLists.txt](https://github.com/Dani926/oss-repo/files/6073337/CMakeLists.txt)
+[Step5: MathFunctions/CMakeLists.txt](https://github.com/Dani926/oss-repo/blob/master/labs/lab-05/Step5/CMakeLists.txt)
 ### Tutorial Output
