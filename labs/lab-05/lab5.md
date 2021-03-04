@@ -35,14 +35,49 @@
 ### Tutorial Output
 ![Step5](https://user-images.githubusercontent.com/63828111/109912241-a66d4c80-7c79-11eb-8453-ffc846492afc.png)
 
+## BuildSystemsExample
+### Makefile
+static_block: program.c libblock.a
+	gcc program.c -L. -lblock -o static_block
 
-![StaticVsDynamic](https://user-images.githubusercontent.com/63828111/109912231-a53c1f80-7c79-11eb-8185-ab4c30b0a38c.png)
-![StCmakeDynamic](https://user-images.githubusercontent.com/63828111/109912232-a5d4b600-7c79-11eb-89f1-c5fa24291b0d.png)
-![StCmakeStatic](https://user-images.githubusercontent.com/63828111/109912233-a5d4b600-7c79-11eb-96a1-519238244a8d.png)
+dynamic_block: program.c libblock.so
+	gcc program.c -L. -l:libblock.so -o dynamic_block
 
+libblock.a: s_block.o
+	ar -rc libblock.a s_block.o
 
+libblock.so: d_block.o
+	gcc -shared d_block.o -o libblock.so
 
+s_block.o: source/block.c
+	gcc -c source/block.c -o s_block.o
 
+d_block.o: source/block.c
+	gcc -c -fpic source/block.c -o d_block.o
 
-![StMakeDynamic](https://user-images.githubusercontent.com/63828111/109912242-a705e300-7c79-11eb-9115-89377f55b975.png)
+clean:
+	$(RM) static_block dynamic_block libblock.a libblock.so *.o
+  
+## Makefile Static Block Output
 ![StMakeStatic](https://user-images.githubusercontent.com/63828111/109912243-a705e300-7c79-11eb-9fbc-733cf83e0eb9.png)
+## Makefile Dynamic Block Output
+![StMakeDynamic](https://user-images.githubusercontent.com/63828111/109912242-a705e300-7c79-11eb-9115-89377f55b975.png)
+## CMakeLists.txt
+
+## CMakeLists.txt Makefile
+
+## CMakeLists.txt Static Block Output
+![StCmakeStatic](https://user-images.githubusercontent.com/63828111/109912233-a5d4b600-7c79-11eb-96a1-519238244a8d.png)
+## CMakeLists.txt Dynamic Block Output
+![StCmakeDynamic](https://user-images.githubusercontent.com/63828111/109912232-a5d4b600-7c79-11eb-89f1-c5fa24291b0d.png)
+## Static VS Dynamic Sizes
+![StaticVsDynamic](https://user-images.githubusercontent.com/63828111/109912231-a53c1f80-7c79-11eb-8185-ab4c30b0a38c.png)
+
+
+
+
+
+
+
+
+
