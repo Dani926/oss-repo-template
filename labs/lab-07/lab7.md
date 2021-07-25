@@ -1,1 +1,1 @@
-# Lab7: Testing and Continuous Integradion
+# Lab7 - Testing and Continuous Integradion
