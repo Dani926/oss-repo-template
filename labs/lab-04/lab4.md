@@ -14,6 +14,7 @@ I'm not sure I agree with the claim. The article makes a good argument that Goph
 Linux is closely related to GNU, so using the GPL makes a lot of sense. When Linus [adopted the GPL](https://mirrors.edge.kernel.org/pub/linux/kernel/Historic/old-versions/RELNOTES-0.12) he noted that the previous license was already close to the GPL except that it limited commercial use. The Linux kernel is now nearly always integrated into the GNU Project and included in GNU/Linux distributions, so using the GPLv2 or something else compatible with GNU copyleft is necessary. 
 
 ## 7 - Open source project and a Business Model
+https://github.com/Dani926/OSSLab4Repo/blob/main/README.md
 
 ## 8 -  5 Projects
 Website | License Present | License
